@@ -19,8 +19,10 @@ Eksperimen dilakukan dalam dua tahap pelatihan untuk menguji stabilitas arsitekt
 - **Model Optimasi (`learning_rate=1e-5` + *Gradient Accumulation*):** Berhasil menekan laju *loss* secara stabil. Kurva *Validation Loss* berhasil diredam melandai pada kisaran `0.39 - 0.42` dan dikunci otomatis pada kondisi terbaiknya di Epoch 2 menggunakan *Early Stopping*.
 - 
 <img width="608" height="245" alt="image" src="https://github.com/user-attachments/assets/3550719d-9c4d-45d4-954a-41fb04dc50de" />
+
 <img width="287" height="244" alt="image" src="https://github.com/user-attachments/assets/2ea17621-446d-473d-a59a-8db7879dbb3a" />
 <img width="299" height="247" alt="image" src="https://github.com/user-attachments/assets/97c88bdb-9947-4861-bec8-da5da767555a" />
+
 <img width="713" height="295" alt="image" src="https://github.com/user-attachments/assets/2cda1541-0e10-4bdd-8f90-061d977a186f" />
 
 ## 🛠️ Langkah Instalasi & Penggunaan
