@@ -27,5 +27,5 @@ Eksperimen dilakukan dalam dua tahap pelatihan untuk menguji stabilitas arsitekt
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/username-kamu/NLP-Clickbait-Classification-IndoBERT-vs-SVM.git](https://github.com/username-kamu/NLP-Clickbait-Classification-IndoBERT-vs-SVM.git)
+   git clone [https://github.com/ethereins/NLP-Clickbait-Classification-IndoBERT-vs-SVM.git](https://github.com/ethereins/NLP-Clickbait-Classification-IndoBERT-vs-SVM.git)
    cd NLP-Clickbait-Classification-IndoBERT-vs-SVM
