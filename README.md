@@ -1,6 +1,6 @@
 # Indonesian Clickbait Detection: IndoBERT vs. SVM
 
-Repositori ini berisi proyek implementasi dan komparasi model NLP untuk mendeteksi judul berita *clickbait* berbahasa Indonesia. Proyek ini membandingkan pendekatan Klasifikasi Klasik (*Machine Learning*) menggunakan **TF-IDF + SVM** dengan pendekatan modern (*Deep Learning / State-of-the-Art*) berbasis *Transformers* menggunakan **IndoBERT fine-tuning** beserta teknik optimasinya.
+Repositori ini berisi proyek implementasi dan komparasi model NLP untuk mendeteksi judul berita *clickbait* berbahasa Indonesia. Proyek ini membandingkan pendekatan Klasifikasi Klasik (*Machine Learning*) menggunakan **TF-IDF + SVM** dengan pendekatan modern (*Deep Learning / State-of-the-Art*) berbasis *Transformers* menggunakan **IndoBERT fine-tuning** beserta teknik optimasinya. Dataset: CLICK-ID (https://www.kaggle.com/datasets/andikawilliam/clickid)
 
 ## 📌 Fitur Proyek
 - **Exploratory Data Analysis (EDA):** Analisis visual distribusi kelas berita serta karakteristik panjang teks (karakter dan jumlah kata) berbasis Plotly.
